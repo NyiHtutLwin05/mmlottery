@@ -24,10 +24,7 @@ A modern, user-friendly web application for a lottery system that allows users t
 - **Ticket Management**  
   Manage and view purchased tickets, and track winnings.
 
-- **Referral Program**  
-  Users can refer others and receive rewards when they purchase tickets.
 
-- **Admin Panel**  
-  Manage lottery draws, users, ticket sales, and view detailed analytics.
+
 
 ---
