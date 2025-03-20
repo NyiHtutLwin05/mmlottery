@@ -1,4 +1,4 @@
-# 🎰 Lottery System Web App 
+# 🎰 Lottery System Web App 🎟️ 
 
 A modern, user-friendly web application for a lottery system that allows users to purchase tickets, view results, and manage their winnings in a secure environment. The app features real-time draw results, secure payment integration, and an easy-to-navigate user interface.
 
