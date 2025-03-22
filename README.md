@@ -6,8 +6,7 @@ A modern, user-friendly web application for a lottery system that allows users t
 
 ## Features ✨
 
-- **User Registration & Login**  
-  📝 Users can create accounts using email, social media, or Google login.
+
 
 - **Lottery Ticket Purchase**  
   💳 Users can buy tickets for upcoming lottery draws through a simple and secure payment gateway integration.
