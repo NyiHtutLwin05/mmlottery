@@ -81,6 +81,7 @@ export function Stats() {
               className="bg-white rounded-lg p-4 shadow-sm hover:shadow-md transition-shadow"
             >
               <div className="flex items-center space-x-3">
+                <div></div>
                 <div className="p-2 md:p-3 bg-gray-50 rounded-lg">
                   {stat.icon}
                 </div>
